@@ -1,0 +1,39 @@
+2023-11-23 08:23:43.791021+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EMPLOYEE" not found (this database is empty); SQL statement:
+insert into Employee (CREATED_AT,NAME,ROLE,ID) values (?,?,?,default) [42104-224]
+2023-11-23 08:24:26.030878+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EMPLOYEE" not found (this database is empty); SQL statement:
+insert into Employee (CREATED_AT,NAME,ROLE,ID) values (?,?,?,default) [42104-224]
+2023-11-23 08:26:56.146512+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EMPLOYEE" not found (this database is empty); SQL statement:
+insert into Employee (CREATED_AT,NAME,ROLE,ID) values (?,?,?,default) [42104-224]
+2023-11-23 08:31:20.015426+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EMPLOYEE" not found (this database is empty); SQL statement:
+insert into Employee (CREATED_AT,NAME,ROLE,ID) values (?,?,?,default) [42104-224]
+2023-11-23 08:32:01.602840+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EMPLOYEE" not found (this database is empty); SQL statement:
+insert into Employee (CREATED_AT,NAME,ROLE,ID) values (?,?,?,default) [42104-224]
+2023-11-23 08:32:19.333718+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EMPLOYEE" not found (this database is empty); SQL statement:
+insert into Employee (CREATED_AT,NAME,ROLE,ID) values (?,?,?,default) [42104-224]
+2023-11-23 08:32:40.102045+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EMPLOYEE" not found (this database is empty); SQL statement:
+insert into Employee (CREATED_AT,NAME,ROLE,ID) values (?,?,?,default) [42104-224]
+2023-11-23 08:33:35.512410+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EMPLOYEE" not found (this database is empty); SQL statement:
+insert into Employee (CREATED_AT,NAME,ROLE,ID) values (?,?,?,default) [42104-224]
+2023-11-23 10:32:36.298906+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ESTUDIANTES" not found (this database is empty); SQL statement:
+insert into Estudiantes (CREATED_AT,NOMBRE,NOTA,ID) values (?,?,?,default) [42104-224]
+2023-11-23 10:33:31.528457+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ESTUDIANTES" not found (this database is empty); SQL statement:
+insert into Estudiantes (CREATED_AT,NOMBRE,NOTA,ID) values (?,?,?,default) [42104-224]
+2023-11-23 10:35:27.095279+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ESTUDIANTES" not found (this database is empty); SQL statement:
+insert into Estudiantes (CREATED_AT,NOMBRE,NOTA,ID) values (?,?,?,default) [42104-224]
+2023-11-23 10:36:14.205692+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ESTUDIANTES" not found (this database is empty); SQL statement:
+insert into Estudiantes (CREATED_AT,NOMBRE,NOTA,ID) values (?,?,?,default) [42104-224]
+2023-11-23 10:40:53.824027+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ESTUDIANTES" not found (this database is empty); SQL statement:
+insert into Estudiantes (CREATED_AT,NOMBRE,NOTA,ID) values (?,?,?,default) [42104-224]
