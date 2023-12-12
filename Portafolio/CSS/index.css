@@ -1,0 +1,9 @@
+body {
+    height: 100%;
+    margin: 0;
+    padding: 5%;
+    padding-top: 20%;
+    color: rgb(224, 217, 217);
+    background-image: linear-gradient(to right top, #000000, #020202, #040403, #050505, #070707, #0c0c0d, #101011, #141415, #1a1a1b, #1f2122, #252728, #2b2e2e);
+    background-repeat: no-repeat;
+}
