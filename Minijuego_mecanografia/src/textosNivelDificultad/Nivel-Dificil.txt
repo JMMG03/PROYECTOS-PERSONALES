@@ -1,0 +1,3 @@
+Este es el texto nivel dificil de este proyecto de java de Pogramacion de Servicios y Procesos
+que consiste en la programacion de un juego de mecanografia, el cual tambien consta de otros
+apartados.
